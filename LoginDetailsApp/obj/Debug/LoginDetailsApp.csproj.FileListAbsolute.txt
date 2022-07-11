@@ -1,0 +1,11 @@
+C:\Users\izennah\Desktop\C# Learning\Practises\LoginDetailsApp\LoginDetailsApp\bin\Debug\LoginDetailsApp.exe.config
+C:\Users\izennah\Desktop\C# Learning\Practises\LoginDetailsApp\LoginDetailsApp\bin\Debug\LoginDetailsApp.exe
+C:\Users\izennah\Desktop\C# Learning\Practises\LoginDetailsApp\LoginDetailsApp\bin\Debug\LoginDetailsApp.pdb
+C:\Users\izennah\Desktop\C# Learning\Practises\LoginDetailsApp\LoginDetailsApp\obj\Debug\LoginDetailsApp.csproj.AssemblyReference.cache
+C:\Users\izennah\Desktop\C# Learning\Practises\LoginDetailsApp\LoginDetailsApp\obj\Debug\LoginDetailsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\izennah\Desktop\C# Learning\Practises\LoginDetailsApp\LoginDetailsApp\obj\Debug\LoginDetailsApp.MainForm.resources
+C:\Users\izennah\Desktop\C# Learning\Practises\LoginDetailsApp\LoginDetailsApp\obj\Debug\LoginDetailsApp.Properties.Resources.resources
+C:\Users\izennah\Desktop\C# Learning\Practises\LoginDetailsApp\LoginDetailsApp\obj\Debug\LoginDetailsApp.csproj.GenerateResource.cache
+C:\Users\izennah\Desktop\C# Learning\Practises\LoginDetailsApp\LoginDetailsApp\obj\Debug\LoginDetailsApp.csproj.CoreCompileInputs.cache
+C:\Users\izennah\Desktop\C# Learning\Practises\LoginDetailsApp\LoginDetailsApp\obj\Debug\LoginDetailsApp.exe
+C:\Users\izennah\Desktop\C# Learning\Practises\LoginDetailsApp\LoginDetailsApp\obj\Debug\LoginDetailsApp.pdb
